@@ -1,0 +1,20 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 1400,
+      "createdAt": "2022-10-05T14:48:00.000Z"
+    },
+    {
+      "id": 1,
+      "description": "Maconha",
+      "type": "outcome",
+      "category": "Outros",
+      "price": 300,
+      "createdAt": "2022-11-05T14:48:00.000Z"
+    }
+  ]
+}
